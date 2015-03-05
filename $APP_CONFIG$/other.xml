@@ -280,6 +280,8 @@
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/PhpstormProjects/british-swimming-library" />
+        <option value="$USER_HOME$/PhpstormProjects/document-store-bundle" />
+        <option value="$USER_HOME$/PhpstormProjects/identity-bundle" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/PhpstormProjects/identity-bundle" />
