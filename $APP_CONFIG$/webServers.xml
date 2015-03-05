@@ -1,0 +1,24 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3fb0dc7-fed4-492f-b8cd-163c8623d7fb" name="dev aquazone" url="http://dev.aquazone.co.uk">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="cacb84fc-d1a3-4273-9d21-db62aa323f80" name="morson.dev/online" url="http://morson.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="59c0d77e-0e1b-4f4a-bb89-17adea77389d" name="dev aiba-wsb" url="http://aiba-wsb.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="411d9198-ca3d-43d7-b84b-d31a0751f22d" name="dev aiba-apb" url="http://aiba-apb.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="0d0da931-c50e-4525-abe1-eb3da5e0fc43" name="dev holt lloyd" url="http://holt-lloyd.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>

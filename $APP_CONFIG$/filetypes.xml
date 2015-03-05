@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="SMALL JOB" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins_skylab_bitbucket_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="skylab_deploy_bitbucket_rsa" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="6" />
+  </component>
+</application>
