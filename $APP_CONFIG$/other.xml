@@ -251,6 +251,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/PhpstormProjects/skylab-puppet" />
         <option value="$USER_HOME$/PhpstormProjects/holt-lloyd" />
         <option value="$USER_HOME$/PhpstormProjects/work-vagrant" />
         <option value="$USER_HOME$/PhpstormProjects/identity-bundle" />
@@ -260,7 +261,6 @@
         <option value="$USER_HOME$/PhpstormProjects/document-store-bundle" />
         <option value="$USER_HOME$/PhpstormProjects/bootstrap-sass" />
         <option value="$USER_HOME$/PhpstormProjects/document-store-client" />
-        <option value="$USER_HOME$/PhpstormProjects/skylab-puppet" />
         <option value="$USER_HOME$/PhpstormProjects/sso" />
         <option value="$USER_HOME$/PhpstormProjects/mcparland-finn" />
         <option value="$USER_HOME$/PhpstormProjects/aiba" />
@@ -283,7 +283,7 @@
         <option value="$USER_HOME$/PhpstormProjects/holt-lloyd" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/PhpstormProjects/holt-lloyd" />
+    <option name="lastPath" value="$USER_HOME$/PhpstormProjects/skylab-puppet" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
