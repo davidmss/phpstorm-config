@@ -260,7 +260,7 @@
       <option name="workingDir" value="$ProjectFileDir$/conf/compass/" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile -e dev -c $ProjectFileDir$/conf/compass/base_holt-lloyd/config.rb --force --css-dir $ProjectFileDir$/src/website/wp-content/themes/base_holt-lloyd " />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
@@ -280,7 +280,7 @@
       <option name="workingDir" value="$ProjectFileDir$/conf/compass/base_holt-lloyd" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile -e dev -c $ProjectFileDir$/conf/compass/holt-lloyd/config.rb --force --css-dir $ProjectFileDir$/src/website/wp-content/themes/holt-lloyd " />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
@@ -300,7 +300,7 @@
       <option name="workingDir" value="$ProjectFileDir$/conf/compass/holt-lloyd" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile -e dev -c $ProjectFileDir$/conf/compass/prestone/config.rb --force --css-dir $ProjectFileDir$/src/website/wp-content/themes/prestone" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
@@ -320,7 +320,7 @@
       <option name="workingDir" value="$ProjectFileDir$/conf/compass/prestone" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile -e dev -c $ProjectFileDir$/conf/compass/redex/config.rb --force --css-dir $ProjectFileDir$/src/website/wp-content/themes/redex" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
@@ -340,7 +340,7 @@
       <option name="workingDir" value="$ProjectFileDir$/conf/compass/redex" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile -e dev -c $ProjectFileDir$/conf/compass/simoniz/config.rb --force --css-dir $ProjectFileDir$/src/website/wp-content/themes/simoniz" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
@@ -360,7 +360,7 @@
       <option name="workingDir" value="$ProjectFileDir$/conf/compass/simoniz" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile -e dev -c $ProjectFileDir$/conf/compass/holt-lloyd-corporate/config.rb --force --css-dir $ProjectFileDir$/src/website/wp-content/themes/holt-lloyd-corporate " />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
